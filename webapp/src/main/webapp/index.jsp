@@ -4,11 +4,11 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Enter mastery</b></label>
+    <label for="Name"><b>Enter Mastery</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter sensei</b></label>
+    <label for="mobile"><b>Enter Sensei</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Welcome to Balerica, protect your passport bro </h1>
+   <h1> Welcome to Balerica, protect your passport bros </h1>
 
   
 </form>
