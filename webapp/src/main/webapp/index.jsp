@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Welcome to Balerica, protect your passport bros </h1>
+   <h1> Welcome to Balerica (remote life), protect your passport bros </h1>
 
   
 </form>
